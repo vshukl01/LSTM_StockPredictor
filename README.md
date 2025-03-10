@@ -14,7 +14,7 @@ Data Visualization: Provides insightful charts to analyze predictions and perfor
 
 Scalability: Can be applied to multiple stock datasets with minimal modifications.
 
-🛠️ Technologies Used
+🛠️ Technologies Used: 
 Python, TensorFlow / Keras, Pandas & NumPy, Matplotlib & Seaborn, Scikit-learn, Yahoo Finance API (or other data sources)
 
 
