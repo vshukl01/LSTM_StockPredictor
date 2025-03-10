@@ -1,7 +1,7 @@
 # LSTM_StockPredictor
 This repository contains a Long Short-Term Memory (LSTM) model for predicting stock prices using historical data. The model leverages deep learning techniques to analyze stock trends and generate forecasts based on past price movements.
 
-Features
+🚀 Features
 Data Preprocessing: Cleans and prepares stock market data for analysis.
 
 LSTM Model Implementation: Uses TensorFlow/Keras to build and train an LSTM-based neural network.
