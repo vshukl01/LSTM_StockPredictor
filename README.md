@@ -13,18 +13,6 @@ Data Visualization: Provides insightful charts to analyze predictions and perfor
 Scalability: Can be applied to multiple stock datasets with minimal modifications.
 
 🛠️ Technologies Used
-Python
-TensorFlow / Keras
-Pandas & NumPy
-Matplotlib & Seaborn
-Scikit-learn
-Yahoo Finance API (or other data sources)
+Python, TensorFlow / Keras, Pandas & NumPy, Matplotlib & Seaborn, Scikit-learn, Yahoo Finance API (or other data sources)
 
-Project Structure
-📦 LSTM_Stock_Prediction  
-│── 📄 LSTM_stock.ipynb   # Jupyter Notebook with model implementation  
-│── 📄 requirements.txt   # List of required dependencies  
-│── 📂 data/              # Folder containing stock market data  
-│── 📂 models/            # Folder to store trained models  
-│── 📄 README.md          # Project documentation  
 
